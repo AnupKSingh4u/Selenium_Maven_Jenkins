@@ -29,7 +29,7 @@ public class TC002_RegisterforNewUser extends TestBase{
 		return testrecords;
 	}
 	
-	@BeforeTest
+	@Test(priority=0)
 	public void setUp() {
 		init("ie", "www.google.com");
 		
@@ -37,7 +37,7 @@ public class TC002_RegisterforNewUser extends TestBase{
 	
 	
 	
-	@Test(dataProvider="regdata")
+	@Test(priority=1)
 	public void VerifyTheRegistration(String firstname, String lastname, String email, String createpass) throws Exception {
 		//log.info("================Starting Test================");
 		//driver = new  FirefoxDriver();
@@ -51,7 +51,7 @@ public class TC002_RegisterforNewUser extends TestBase{
 		log.info("================Finished Test================");
 	}
 	
-	@AfterTest
+	@Test(priority=2)
     public void endTest() {
 		driver.close();
 	}
