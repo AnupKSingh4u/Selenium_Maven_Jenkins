@@ -18,7 +18,7 @@ public class TC001_VerifyWithInvalidCredentials extends TestBase {
 	@Test(priority=1)
 	public void setUp() {
 		init("chrome","http://automationpractice.com/index.php");
-		System.out.println("GIT Message for change");
+		System.out.println("GIT Message for change_again");
 	}
 	
 	@Test(priority=2)
