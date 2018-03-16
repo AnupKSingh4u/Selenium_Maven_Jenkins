@@ -1,0 +1,472 @@
+2017-09-10 11:27:06 INFO  TC001_VerifyWithInvalidCredentials:28 - ================Starting Test================
+2017-09-10 11:27:10 INFO  HomePage:38 - Clicked on SignIn Link and object is: Sign in
+2017-09-10 11:27:10 INFO  HomePage:41 - Enteredtest@gmail.comin username and object is: 
+2017-09-10 11:27:11 INFO  HomePage:44 - Enteredtest@123in username and object is: 
+2017-09-10 11:27:14 INFO  HomePage:47 - Clicked on SignIn button and object is: Sign in
+2017-09-10 11:27:14 INFO  HomePage:51 - Authentication message is: Authentication failed.
+2017-09-10 11:27:14 INFO  TC001_VerifyWithInvalidCredentials:32 - ================Finished Test================
+2017-09-10 11:55:53 INFO  TC001_VerifyWithInvalidCredentials:28 - ================Starting Test================
+2017-09-10 11:55:56 INFO  HomePage:38 - Clicked on SignIn Link and object is: Sign in
+2017-09-10 11:55:56 INFO  HomePage:41 - Entered 'test@gmail.com' in username and object is: 
+2017-09-10 11:55:58 INFO  HomePage:44 - Entered 'test@123' in password and object is: 
+2017-09-10 11:56:00 INFO  HomePage:47 - Clicked on SignIn button and object is: Sign in
+2017-09-10 11:56:00 INFO  HomePage:51 - Authentication message is: Authentication failed.
+2017-09-10 11:56:00 INFO  TC001_VerifyWithInvalidCredentials:32 - ================Finished Test================
+2017-09-10 12:27:26 INFO  TC001_VerifyWithInvalidCredentials:28 - ================Starting Test================
+2017-09-10 12:28:25 INFO  TC001_VerifyWithInvalidCredentials:28 - ================Starting Test================
+2017-09-10 12:28:30 INFO  HomePage:38 - Clicked on SignIn Link and object is: Sign in
+2017-09-10 12:28:30 INFO  HomePage:41 - Entered 'test@gmail.com' in username and object is: 
+2017-09-10 12:28:30 INFO  HomePage:44 - Entered 'test@123' in password and object is: 
+2017-09-10 12:28:32 INFO  HomePage:47 - Clicked on SignIn button and object is: Sign in
+2017-09-10 12:28:32 INFO  HomePage:51 - Authentication message is: Authentication failed.
+2017-09-10 12:28:32 INFO  TC001_VerifyWithInvalidCredentials:32 - ================Finished Test================
+2017-09-10 12:34:53 INFO  TC001_VerifyWithInvalidCredentials:28 - ================Starting Test================
+2017-09-10 12:34:56 INFO  HomePage:38 - Clicked on SignIn Link and object is: Sign in
+2017-09-10 12:34:56 INFO  HomePage:41 - Entered 'test@gmail.com' in username and object is: 
+2017-09-10 12:34:56 INFO  HomePage:44 - Entered 'test@123' in password and object is: 
+2017-09-10 12:34:58 INFO  HomePage:47 - Clicked on SignIn button and object is: Sign in
+2017-09-10 12:34:58 INFO  HomePage:51 - Authentication message is: Authentication failed.
+2017-09-10 12:34:58 INFO  TC001_VerifyWithInvalidCredentials:32 - ================Finished Test================
+2017-09-13 22:36:40 INFO  HomePage:88 - Clicked on SignUp link and object isSign up
+2017-09-13 22:36:40 INFO  HomePage:91 - Entered first name and object is
+2017-09-13 22:36:40 INFO  HomePage:94 - Entered last name and object is
+2017-09-13 22:36:40 INFO  HomePage:97 - Entered email and object is
+2017-09-13 22:36:40 INFO  HomePage:100 - Entered password and object is
+2017-09-13 22:36:40 INFO  HomePage:103 - Clicked on Create button and object is
+2017-09-13 22:38:28 INFO  HomePage:88 - Clicked on SignUp link and object isSign up
+2017-09-13 22:38:28 INFO  HomePage:91 - Entered first name and object is
+2017-09-13 22:38:28 INFO  HomePage:94 - Entered last name and object isinput
+2017-09-13 22:38:28 INFO  HomePage:97 - Entered email and object is
+2017-09-13 22:38:28 INFO  HomePage:100 - Entered password and object is
+2017-09-13 22:38:28 INFO  HomePage:103 - Clicked on Create button and object is
+2017-09-13 22:40:58 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-13 22:42:47 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-13 22:42:52 INFO  HomePage:39 - Clicked on SignIn Link and object is: Sign in
+2017-09-13 22:43:12 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: 
+2017-09-13 22:43:13 INFO  HomePage:45 - Entered 'test@123' in password and object is: 
+2017-09-13 22:43:18 INFO  HomePage:48 - Clicked on SignIn button and object is: Sign in
+2017-09-13 22:43:18 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-13 22:43:18 INFO  TC001_VerifyWithInvalidCredentials:30 - ================Finished Test================
+2017-09-13 22:47:08 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-13 22:47:14 INFO  HomePage:39 - Clicked on SignIn Link and object is: [[FirefoxDriver: firefox on ANY (f4e81671-fbaa-4543-9d5f-db6799992371)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-13 22:47:15 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: [[FirefoxDriver: firefox on ANY (f4e81671-fbaa-4543-9d5f-db6799992371)] -> xpath: //*[@id='email']]
+2017-09-13 22:47:15 INFO  HomePage:45 - Entered 'test@123' in password and object is: [[FirefoxDriver: firefox on ANY (f4e81671-fbaa-4543-9d5f-db6799992371)] -> xpath: //*[@id='passwd']]
+2017-09-13 22:47:17 INFO  HomePage:48 - Clicked on SignIn button and object is: [[FirefoxDriver: firefox on ANY (f4e81671-fbaa-4543-9d5f-db6799992371)] -> xpath: //*[@id='SubmitLogin']]
+2017-09-13 22:47:17 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-13 22:47:17 INFO  TC001_VerifyWithInvalidCredentials:30 - ================Finished Test================
+2017-09-13 23:03:58 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-13 23:04:08 INFO  HomePage:39 - Clicked on SignIn Link and object is: [[ChromeDriver: chrome on XP (35fe83f85b205db5ad6ffe8ea7f1a78d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-13 23:04:08 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: [[ChromeDriver: chrome on XP (35fe83f85b205db5ad6ffe8ea7f1a78d)] -> xpath: //*[@id='email']]
+2017-09-13 23:04:08 INFO  HomePage:45 - Entered 'test@123' in password and object is: [[ChromeDriver: chrome on XP (35fe83f85b205db5ad6ffe8ea7f1a78d)] -> xpath: //*[@id='passwd']]
+2017-09-13 23:04:11 INFO  HomePage:48 - Clicked on SignIn button and object is: [[ChromeDriver: chrome on XP (35fe83f85b205db5ad6ffe8ea7f1a78d)] -> xpath: //*[@id='SubmitLogin']]
+2017-09-13 23:04:11 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-13 23:04:11 INFO  TC001_VerifyWithInvalidCredentials:30 - ================Finished Test================
+2017-09-13 23:06:42 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-13 23:06:47 INFO  HomePage:39 - Clicked on SignIn Link and object is: [[ChromeDriver: chrome on XP (bf5dff89f979af06a1bb1dfe0fc27b7c)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-13 23:06:47 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: [[ChromeDriver: chrome on XP (bf5dff89f979af06a1bb1dfe0fc27b7c)] -> xpath: //*[@id='email']]
+2017-09-13 23:06:47 INFO  HomePage:45 - Entered 'test@123' in password and object is: [[ChromeDriver: chrome on XP (bf5dff89f979af06a1bb1dfe0fc27b7c)] -> xpath: //*[@id='passwd']]
+2017-09-13 23:06:49 INFO  HomePage:48 - Clicked on SignIn button and object is: [[ChromeDriver: chrome on XP (bf5dff89f979af06a1bb1dfe0fc27b7c)] -> xpath: //*[@id='SubmitLogin']]
+2017-09-13 23:06:49 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-13 23:06:49 INFO  TC001_VerifyWithInvalidCredentials:30 - ================Finished Test================
+2017-09-13 23:10:15 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-13 23:10:20 INFO  HomePage:39 - Clicked on SignIn Link and object is: [[ChromeDriver: chrome on XP (0d7ff6fa20788583bd4b3acf4c451f1d)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-13 23:10:20 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: [[ChromeDriver: chrome on XP (0d7ff6fa20788583bd4b3acf4c451f1d)] -> xpath: //*[@id='email']]
+2017-09-13 23:10:20 INFO  HomePage:45 - Entered 'test@123' in password and object is: [[ChromeDriver: chrome on XP (0d7ff6fa20788583bd4b3acf4c451f1d)] -> xpath: //*[@id='passwd']]
+2017-09-13 23:10:22 INFO  HomePage:48 - Clicked on SignIn button and object is: [[ChromeDriver: chrome on XP (0d7ff6fa20788583bd4b3acf4c451f1d)] -> xpath: //*[@id='SubmitLogin']]
+2017-09-13 23:10:22 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-13 23:10:22 INFO  TC001_VerifyWithInvalidCredentials:30 - ================Finished Test================
+2017-09-14 21:17:36 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-14 21:17:40 INFO  HomePage:39 - Clicked on SignIn Link and object is: [[ChromeDriver: chrome on XP (839fb7bb0b522c1e3dc446d8e9070e9b)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-14 21:17:40 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: [[ChromeDriver: chrome on XP (839fb7bb0b522c1e3dc446d8e9070e9b)] -> xpath: //*[@id='email']]
+2017-09-14 21:17:40 INFO  HomePage:45 - Entered 'test@123' in password and object is: [[ChromeDriver: chrome on XP (839fb7bb0b522c1e3dc446d8e9070e9b)] -> xpath: //*[@id='passwd']]
+2017-09-14 21:17:42 INFO  HomePage:48 - Clicked on SignIn button and object is: [[ChromeDriver: chrome on XP (839fb7bb0b522c1e3dc446d8e9070e9b)] -> xpath: //*[@id='SubmitLogin']]
+2017-09-14 21:17:42 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-14 21:17:42 INFO  TC001_VerifyWithInvalidCredentials:30 - ================Finished Test================
+2017-09-14 21:20:16 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-14 21:20:19 INFO  HomePage:39 - Clicked on SignIn Link and object is: [[ChromeDriver: chrome on XP (179118d78d8162c131334d2395d7dfbd)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-14 21:20:19 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: [[ChromeDriver: chrome on XP (179118d78d8162c131334d2395d7dfbd)] -> xpath: //*[@id='email']]
+2017-09-14 21:20:19 INFO  HomePage:45 - Entered 'test@123' in password and object is: [[ChromeDriver: chrome on XP (179118d78d8162c131334d2395d7dfbd)] -> xpath: //*[@id='passwd']]
+2017-09-14 21:20:21 INFO  HomePage:48 - Clicked on SignIn button and object is: [[ChromeDriver: chrome on XP (179118d78d8162c131334d2395d7dfbd)] -> xpath: //*[@id='SubmitLogin']]
+2017-09-14 21:20:22 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-14 21:20:22 INFO  TC001_VerifyWithInvalidCredentials:31 - ================Finished Test================
+2017-09-14 21:24:36 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2017-09-14 21:24:38 INFO  HomePage:39 - Clicked on SignIn Link and object is: [[ChromeDriver: chrome on XP (b4c9a5f9d32ff5cd444586273644809e)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-14 21:24:38 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: [[ChromeDriver: chrome on XP (b4c9a5f9d32ff5cd444586273644809e)] -> xpath: //*[@id='email']]
+2017-09-14 21:24:38 INFO  HomePage:45 - Entered 'test@123' in password and object is: [[ChromeDriver: chrome on XP (b4c9a5f9d32ff5cd444586273644809e)] -> xpath: //*[@id='passwd']]
+2017-09-14 21:24:40 INFO  HomePage:48 - Clicked on SignIn button and object is: [[ChromeDriver: chrome on XP (b4c9a5f9d32ff5cd444586273644809e)] -> xpath: //*[@id='SubmitLogin']]
+2017-09-14 21:24:40 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-14 21:24:40 INFO  TC001_VerifyWithInvalidCredentials:31 - ================Finished Test================
+2017-09-14 21:39:30 INFO  HomePage:88 - Clicked on SignUp link and object is: Sign up
+2017-09-14 21:39:30 INFO  HomePage:91 - Entered first name and object is: 
+2017-09-14 21:39:30 INFO  HomePage:94 - Entered last name and object is: input
+2017-09-14 21:39:30 INFO  HomePage:97 - Entered email and object is: 
+2017-09-14 21:39:30 INFO  HomePage:100 - Entered password and object is: 
+2017-09-14 21:39:30 INFO  HomePage:103 - Clicked on Create button and object is: 
+2017-09-14 21:47:23 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2017-09-14 21:47:25 INFO  HomePage:39 - Clicked on SignIn Link and object is: [[ChromeDriver: chrome on XP (64e0a85f1390a9cef8a75b3cd2e1a1f7)] -> xpath: //*[@id='header']/div[2]/div/div/nav/div[1]/a]
+2017-09-14 21:47:26 INFO  HomePage:42 - Entered 'test@gmail.com' in username and object is: [[ChromeDriver: chrome on XP (64e0a85f1390a9cef8a75b3cd2e1a1f7)] -> xpath: //*[@id='email']]
+2017-09-14 21:47:26 INFO  HomePage:45 - Entered 'test@123' in password and object is: [[ChromeDriver: chrome on XP (64e0a85f1390a9cef8a75b3cd2e1a1f7)] -> xpath: //*[@id='passwd']]
+2017-09-14 21:47:27 INFO  HomePage:48 - Clicked on SignIn button and object is: [[ChromeDriver: chrome on XP (64e0a85f1390a9cef8a75b3cd2e1a1f7)] -> xpath: //*[@id='SubmitLogin']]
+2017-09-14 21:47:27 INFO  HomePage:52 - Authentication message is: Authentication failed.
+2017-09-14 21:47:27 INFO  TC001_VerifyWithInvalidCredentials:31 - ================Finished Test================
+2017-09-15 10:14:49 INFO  HomePage:88 - Clicked on SignUp link and object is: Sign up
+2017-09-15 10:14:51 INFO  HomePage:91 - Entered first name and object is: 
+2017-09-15 10:14:51 INFO  HomePage:94 - Entered last name and object is: input
+2017-09-15 10:14:51 INFO  HomePage:97 - Entered email and object is: 
+2017-09-15 10:14:51 INFO  HomePage:100 - Entered password and object is: 
+2017-09-15 10:14:51 INFO  HomePage:103 - Clicked on Create button and object is: 
+2017-09-15 10:16:42 INFO  HomePage:88 - Clicked on SignUp link and object is: Sign up
+2017-09-15 10:16:47 INFO  HomePage:91 - Entered first name and object is: 
+2017-09-15 10:16:47 INFO  HomePage:94 - Entered last name and object is: input
+2017-09-15 10:16:47 INFO  HomePage:97 - Entered email and object is: 
+2017-09-15 10:16:47 INFO  HomePage:100 - Entered password and object is: 
+2017-09-15 10:16:47 INFO  HomePage:103 - Clicked on Create button and object is: 
+2017-09-15 10:17:56 INFO  HomePage:88 - Clicked on SignUp link and object is: Sign up
+2017-09-15 10:17:56 INFO  HomePage:91 - Entered first name and object is: 
+2017-09-15 10:17:56 INFO  HomePage:94 - Entered last name and object is: input
+2017-09-15 10:17:56 INFO  HomePage:97 - Entered email and object is: 
+2017-09-15 10:17:56 INFO  HomePage:100 - Entered password and object is: 
+2017-09-15 10:17:59 INFO  HomePage:103 - Clicked on Create button and object is: 
+2017-09-16 21:45:10 INFO  HomePage:88 - Clicked on SignUp link and object is: Sign up
+2017-09-16 21:45:10 INFO  HomePage:91 - Entered first name and object is: 
+2017-09-16 21:45:12 INFO  HomePage:94 - Entered last name and object is: input
+2017-09-16 21:45:12 INFO  HomePage:97 - Entered email and object is: 
+2017-09-16 21:45:13 INFO  HomePage:100 - Entered password and object is: 
+2017-09-16 21:45:16 INFO  HomePage:103 - Clicked on Create button and object is: 
+2017-09-16 21:49:33 INFO  HomePage:88 - Clicked on SignUp link and object is: Sign up
+2017-09-16 21:49:33 INFO  HomePage:91 - Entered first name and object is: 
+2017-09-16 21:49:33 INFO  HomePage:94 - Entered last name and object is: input
+2017-09-16 21:49:33 INFO  HomePage:97 - Entered email and object is: 
+2017-09-16 21:49:33 INFO  HomePage:100 - Entered password and object is: 
+2017-09-16 22:09:44 INFO  HomePage:91 - Clicked on SignUp link and object is: Sign up
+2017-09-16 22:09:44 INFO  HomePage:94 - Entered first name and object is: 
+2017-09-16 22:09:44 INFO  HomePage:97 - Entered last name and object is: input
+2017-09-16 22:09:44 INFO  HomePage:100 - Entered email and object is: 
+2017-09-16 22:09:44 INFO  HomePage:103 - Entered password and object is: 
+2017-09-16 22:12:11 INFO  HomePage:91 - Clicked on SignUp link and object is: Sign up
+2017-09-16 22:12:11 INFO  HomePage:94 - Entered first name and object is: 
+2017-09-16 22:12:11 INFO  HomePage:97 - Entered last name and object is: input
+2017-09-16 22:12:11 INFO  HomePage:100 - Entered email and object is: 
+2017-09-16 22:12:11 INFO  HomePage:103 - Entered password and object is: 
+2017-09-16 22:15:53 INFO  HomePage:91 - Clicked on SignUp link and object is: Sign up
+2017-09-16 22:15:53 INFO  HomePage:94 - Entered first name and object is: 
+2017-09-16 22:15:53 INFO  HomePage:97 - Entered last name and object is: input
+2017-09-16 22:15:53 INFO  HomePage:100 - Entered email and object is: 
+2017-09-16 22:15:53 INFO  HomePage:103 - Entered password and object is: 
+2017-09-16 22:21:19 INFO  HomePage:91 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (edb0e3a3-69a8-4470-814b-a9a492938750)] -> id: customer_register_link]
+2017-09-16 22:21:20 INFO  HomePage:94 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (edb0e3a3-69a8-4470-814b-a9a492938750)] -> id: FirstName]
+2017-09-16 22:21:20 INFO  HomePage:97 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (edb0e3a3-69a8-4470-814b-a9a492938750)] -> id: LastName]
+2017-09-16 22:21:20 INFO  HomePage:100 - Entered email and object is: [[FirefoxDriver: firefox on ANY (edb0e3a3-69a8-4470-814b-a9a492938750)] -> id: Email]
+2017-09-16 22:21:20 INFO  HomePage:103 - Entered password and object is: [[FirefoxDriver: firefox on ANY (edb0e3a3-69a8-4470-814b-a9a492938750)] -> id: CreatePassword]
+2017-09-16 22:21:43 INFO  HomePage:106 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-16 22:23:36 INFO  HomePage:90 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (f8c3ec06-0aed-426e-a6a8-5022165cd56e)] -> id: customer_register_link]
+2017-09-16 22:23:36 INFO  HomePage:93 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (f8c3ec06-0aed-426e-a6a8-5022165cd56e)] -> id: FirstName]
+2017-09-16 22:23:36 INFO  HomePage:96 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (f8c3ec06-0aed-426e-a6a8-5022165cd56e)] -> id: LastName]
+2017-09-16 22:23:36 INFO  HomePage:99 - Entered email and object is: [[FirefoxDriver: firefox on ANY (f8c3ec06-0aed-426e-a6a8-5022165cd56e)] -> id: Email]
+2017-09-16 22:23:36 INFO  HomePage:102 - Entered password and object is: [[FirefoxDriver: firefox on ANY (f8c3ec06-0aed-426e-a6a8-5022165cd56e)] -> id: CreatePassword]
+2017-09-16 22:23:59 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-16 22:26:42 INFO  HomePage:90 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (2708a89d-5d33-4702-8607-cb9495d306bd)] -> id: customer_register_link]
+2017-09-16 22:26:42 INFO  HomePage:93 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (2708a89d-5d33-4702-8607-cb9495d306bd)] -> id: FirstName]
+2017-09-16 22:26:42 INFO  HomePage:96 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (2708a89d-5d33-4702-8607-cb9495d306bd)] -> id: LastName]
+2017-09-16 22:26:42 INFO  HomePage:99 - Entered email and object is: [[FirefoxDriver: firefox on ANY (2708a89d-5d33-4702-8607-cb9495d306bd)] -> id: Email]
+2017-09-16 22:26:42 INFO  HomePage:102 - Entered password and object is: [[FirefoxDriver: firefox on ANY (2708a89d-5d33-4702-8607-cb9495d306bd)] -> id: CreatePassword]
+2017-09-16 22:27:06 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-16 22:27:39 INFO  HomePage:90 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (630b4f42-e14a-45cf-991b-80f33ba64afd)] -> id: customer_register_link]
+2017-09-16 22:27:39 INFO  HomePage:93 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (630b4f42-e14a-45cf-991b-80f33ba64afd)] -> id: FirstName]
+2017-09-16 22:27:40 INFO  HomePage:96 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (630b4f42-e14a-45cf-991b-80f33ba64afd)] -> id: LastName]
+2017-09-16 22:27:40 INFO  HomePage:99 - Entered email and object is: [[FirefoxDriver: firefox on ANY (630b4f42-e14a-45cf-991b-80f33ba64afd)] -> id: Email]
+2017-09-16 22:27:40 INFO  HomePage:102 - Entered password and object is: [[FirefoxDriver: firefox on ANY (630b4f42-e14a-45cf-991b-80f33ba64afd)] -> id: CreatePassword]
+2017-09-16 22:28:03 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-16 22:42:14 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (17e8faef7f7be6cde611176edfc0e0ec)] -> id: customer_register_link]
+2017-09-16 22:42:14 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (17e8faef7f7be6cde611176edfc0e0ec)] -> id: FirstName]
+2017-09-16 22:42:15 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (17e8faef7f7be6cde611176edfc0e0ec)] -> id: LastName]
+2017-09-16 22:42:15 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (17e8faef7f7be6cde611176edfc0e0ec)] -> id: Email]
+2017-09-16 22:42:15 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (17e8faef7f7be6cde611176edfc0e0ec)] -> id: CreatePassword]
+2017-09-16 22:42:38 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-16 22:55:42 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (45e71b67734e3025f03e4fba10b2fe43)] -> id: customer_register_link]
+2017-09-16 22:55:42 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (45e71b67734e3025f03e4fba10b2fe43)] -> id: FirstName]
+2017-09-16 22:55:43 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (45e71b67734e3025f03e4fba10b2fe43)] -> id: LastName]
+2017-09-16 22:55:43 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (45e71b67734e3025f03e4fba10b2fe43)] -> id: Email]
+2017-09-16 22:55:43 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (45e71b67734e3025f03e4fba10b2fe43)] -> id: CreatePassword]
+2017-09-16 22:56:05 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-18 12:30:07 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (7e6fb8b796d7f4c62ba857785e9e5653)] -> id: customer_register_link]
+2017-09-18 12:30:08 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (7e6fb8b796d7f4c62ba857785e9e5653)] -> id: FirstName]
+2017-09-18 12:30:08 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (7e6fb8b796d7f4c62ba857785e9e5653)] -> id: LastName]
+2017-09-18 12:30:08 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (7e6fb8b796d7f4c62ba857785e9e5653)] -> id: Email]
+2017-09-18 12:30:08 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (7e6fb8b796d7f4c62ba857785e9e5653)] -> id: CreatePassword]
+2017-09-18 12:30:10 INFO  HomePage:105 - Clicked on Create button and object is: [[ChromeDriver: chrome on XP (7e6fb8b796d7f4c62ba857785e9e5653)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-09-18 12:31:40 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (9354d2c2af17a5bfa63db96900f9fbe1)] -> id: customer_register_link]
+2017-09-18 12:31:41 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (9354d2c2af17a5bfa63db96900f9fbe1)] -> id: FirstName]
+2017-09-18 12:31:41 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (9354d2c2af17a5bfa63db96900f9fbe1)] -> id: LastName]
+2017-09-18 12:31:41 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (9354d2c2af17a5bfa63db96900f9fbe1)] -> id: Email]
+2017-09-18 12:31:42 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (9354d2c2af17a5bfa63db96900f9fbe1)] -> id: CreatePassword]
+2017-09-18 12:32:12 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-18 12:38:30 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (4b99e77c59e0a3b992ce36eb5ed23663)] -> id: customer_register_link]
+2017-09-18 12:38:30 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (4b99e77c59e0a3b992ce36eb5ed23663)] -> id: FirstName]
+2017-09-18 12:38:30 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (4b99e77c59e0a3b992ce36eb5ed23663)] -> id: LastName]
+2017-09-18 12:38:30 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (4b99e77c59e0a3b992ce36eb5ed23663)] -> id: Email]
+2017-09-18 12:38:30 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (4b99e77c59e0a3b992ce36eb5ed23663)] -> id: CreatePassword]
+2017-09-18 12:38:53 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-18 12:41:09 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (2897bcd3af03edd60cbdd89542d710cb)] -> id: customer_register_link]
+2017-09-18 12:41:09 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (2897bcd3af03edd60cbdd89542d710cb)] -> id: FirstName]
+2017-09-18 12:41:10 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (2897bcd3af03edd60cbdd89542d710cb)] -> id: LastName]
+2017-09-18 12:41:10 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (2897bcd3af03edd60cbdd89542d710cb)] -> id: Email]
+2017-09-18 12:41:10 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (2897bcd3af03edd60cbdd89542d710cb)] -> id: CreatePassword]
+2017-09-18 12:41:32 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-18 12:45:09 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (68564677ac7ea594484a54e699308545)] -> id: customer_register_link]
+2017-09-18 12:45:10 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (68564677ac7ea594484a54e699308545)] -> id: FirstName]
+2017-09-18 12:45:10 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (68564677ac7ea594484a54e699308545)] -> id: LastName]
+2017-09-18 12:45:10 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (68564677ac7ea594484a54e699308545)] -> id: Email]
+2017-09-18 12:45:10 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (68564677ac7ea594484a54e699308545)] -> id: CreatePassword]
+2017-09-18 12:45:33 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 12:28:35 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (01fc34c53bd564437fcbcf0e7a2d93e7)] -> id: customer_register_link]
+2017-09-19 12:28:36 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (01fc34c53bd564437fcbcf0e7a2d93e7)] -> id: FirstName]
+2017-09-19 12:28:36 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (01fc34c53bd564437fcbcf0e7a2d93e7)] -> id: LastName]
+2017-09-19 12:28:36 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (01fc34c53bd564437fcbcf0e7a2d93e7)] -> id: Email]
+2017-09-19 12:28:36 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (01fc34c53bd564437fcbcf0e7a2d93e7)] -> id: CreatePassword]
+2017-09-19 12:28:40 INFO  HomePage:105 - Clicked on Create button and object is: [[ChromeDriver: chrome on XP (01fc34c53bd564437fcbcf0e7a2d93e7)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-09-19 12:35:28 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (b429450182e79f0b8601c4a22d11b8cd)] -> id: customer_register_link]
+2017-09-19 12:35:28 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (b429450182e79f0b8601c4a22d11b8cd)] -> id: FirstName]
+2017-09-19 12:35:28 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (b429450182e79f0b8601c4a22d11b8cd)] -> id: LastName]
+2017-09-19 12:35:28 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (b429450182e79f0b8601c4a22d11b8cd)] -> id: Email]
+2017-09-19 12:35:29 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (b429450182e79f0b8601c4a22d11b8cd)] -> id: CreatePassword]
+2017-09-19 12:35:52 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 12:38:48 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (911bcada0aad431b7f0059d419745960)] -> id: customer_register_link]
+2017-09-19 12:38:48 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (911bcada0aad431b7f0059d419745960)] -> id: FirstName]
+2017-09-19 12:38:48 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (911bcada0aad431b7f0059d419745960)] -> id: LastName]
+2017-09-19 12:38:48 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (911bcada0aad431b7f0059d419745960)] -> id: Email]
+2017-09-19 12:38:48 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (911bcada0aad431b7f0059d419745960)] -> id: CreatePassword]
+2017-09-19 12:39:11 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 12:41:46 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (fa4fa3fd9f1b3adf13721521a1ecb3ff)] -> id: customer_register_link]
+2017-09-19 12:41:46 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (fa4fa3fd9f1b3adf13721521a1ecb3ff)] -> id: FirstName]
+2017-09-19 12:41:46 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (fa4fa3fd9f1b3adf13721521a1ecb3ff)] -> id: LastName]
+2017-09-19 12:41:46 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (fa4fa3fd9f1b3adf13721521a1ecb3ff)] -> id: Email]
+2017-09-19 12:41:46 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (fa4fa3fd9f1b3adf13721521a1ecb3ff)] -> id: CreatePassword]
+2017-09-19 12:42:09 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 12:45:06 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (6e4790974c330bc85e9fbc5640bbe3c5)] -> id: customer_register_link]
+2017-09-19 12:45:06 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (6e4790974c330bc85e9fbc5640bbe3c5)] -> id: FirstName]
+2017-09-19 12:45:06 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (6e4790974c330bc85e9fbc5640bbe3c5)] -> id: LastName]
+2017-09-19 12:45:06 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (6e4790974c330bc85e9fbc5640bbe3c5)] -> id: Email]
+2017-09-19 12:45:07 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (6e4790974c330bc85e9fbc5640bbe3c5)] -> id: CreatePassword]
+2017-09-19 12:45:29 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 13:03:19 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (3f37f152653ae0ad822d984e5f96f630)] -> id: customer_register_link]
+2017-09-19 13:03:19 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (3f37f152653ae0ad822d984e5f96f630)] -> id: FirstName]
+2017-09-19 13:03:19 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (3f37f152653ae0ad822d984e5f96f630)] -> id: LastName]
+2017-09-19 13:03:19 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (3f37f152653ae0ad822d984e5f96f630)] -> id: Email]
+2017-09-19 13:03:19 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (3f37f152653ae0ad822d984e5f96f630)] -> id: CreatePassword]
+2017-09-19 13:03:42 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 13:16:27 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (a709cf3c576abf440ad7fdc8f01c83f3)] -> id: customer_register_link]
+2017-09-19 13:16:28 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (a709cf3c576abf440ad7fdc8f01c83f3)] -> id: FirstName]
+2017-09-19 13:16:28 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (a709cf3c576abf440ad7fdc8f01c83f3)] -> id: LastName]
+2017-09-19 13:16:28 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (a709cf3c576abf440ad7fdc8f01c83f3)] -> id: Email]
+2017-09-19 13:16:28 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (a709cf3c576abf440ad7fdc8f01c83f3)] -> id: CreatePassword]
+2017-09-19 13:16:51 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 13:18:01 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (80f08de85d9a13468c2a5669828a8895)] -> id: customer_register_link]
+2017-09-19 13:18:01 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (80f08de85d9a13468c2a5669828a8895)] -> id: FirstName]
+2017-09-19 13:18:01 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (80f08de85d9a13468c2a5669828a8895)] -> id: LastName]
+2017-09-19 13:18:01 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (80f08de85d9a13468c2a5669828a8895)] -> id: Email]
+2017-09-19 13:18:02 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (80f08de85d9a13468c2a5669828a8895)] -> id: CreatePassword]
+2017-09-19 13:18:24 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 13:20:49 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (bce317535c3a07cc9c2faf6b946eebce)] -> id: customer_register_link]
+2017-09-19 13:20:49 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (bce317535c3a07cc9c2faf6b946eebce)] -> id: FirstName]
+2017-09-19 13:20:49 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (bce317535c3a07cc9c2faf6b946eebce)] -> id: LastName]
+2017-09-19 13:20:49 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (bce317535c3a07cc9c2faf6b946eebce)] -> id: Email]
+2017-09-19 13:20:49 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (bce317535c3a07cc9c2faf6b946eebce)] -> id: CreatePassword]
+2017-09-19 13:21:12 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-09-19 13:35:42 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (efd23b5e39d7427bd62d1408d056a5d6)] -> id: customer_register_link]
+2017-09-19 13:35:42 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (efd23b5e39d7427bd62d1408d056a5d6)] -> id: FirstName]
+2017-09-19 13:35:42 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (efd23b5e39d7427bd62d1408d056a5d6)] -> id: LastName]
+2017-09-19 13:35:42 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (efd23b5e39d7427bd62d1408d056a5d6)] -> id: Email]
+2017-09-19 13:35:42 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (efd23b5e39d7427bd62d1408d056a5d6)] -> id: CreatePassword]
+2017-09-19 13:36:05 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-04 22:16:36 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2017-10-04 22:37:17 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2017-10-04 22:37:23 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (cce355c89f4ba35b6150eca8ba0c933d)] -> id: customer_register_link]
+2017-10-04 22:37:28 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (cce355c89f4ba35b6150eca8ba0c933d)] -> id: FirstName]
+2017-10-04 22:37:28 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (cce355c89f4ba35b6150eca8ba0c933d)] -> id: LastName]
+2017-10-04 22:37:29 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (cce355c89f4ba35b6150eca8ba0c933d)] -> id: Email]
+2017-10-04 22:37:29 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (cce355c89f4ba35b6150eca8ba0c933d)] -> id: CreatePassword]
+2017-10-04 22:37:33 INFO  HomePage:105 - Clicked on Create button and object is: [[ChromeDriver: chrome on XP (cce355c89f4ba35b6150eca8ba0c933d)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-10-05 10:14:43 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (b18e581d3c09a0477d51243b2cc54cdb)] -> id: customer_register_link]
+2017-10-05 10:14:43 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (b18e581d3c09a0477d51243b2cc54cdb)] -> id: FirstName]
+2017-10-05 10:14:43 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (b18e581d3c09a0477d51243b2cc54cdb)] -> id: LastName]
+2017-10-05 10:14:44 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (b18e581d3c09a0477d51243b2cc54cdb)] -> id: Email]
+2017-10-05 10:14:44 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (b18e581d3c09a0477d51243b2cc54cdb)] -> id: CreatePassword]
+2017-10-05 10:14:46 INFO  HomePage:105 - Clicked on Create button and object is: [[ChromeDriver: chrome on XP (b18e581d3c09a0477d51243b2cc54cdb)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-10-05 10:26:09 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (4f7a17e4ac02350e315e92e67431b36c)] -> id: customer_register_link]
+2017-10-05 10:26:09 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (4f7a17e4ac02350e315e92e67431b36c)] -> id: FirstName]
+2017-10-05 10:26:10 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (4f7a17e4ac02350e315e92e67431b36c)] -> id: LastName]
+2017-10-05 10:26:10 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (4f7a17e4ac02350e315e92e67431b36c)] -> id: Email]
+2017-10-05 10:26:10 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (4f7a17e4ac02350e315e92e67431b36c)] -> id: CreatePassword]
+2017-10-05 10:26:33 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-05 10:28:27 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (47e6522198cf9c7bdea168c790bea39c)] -> id: customer_register_link]
+2017-10-05 10:28:27 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (47e6522198cf9c7bdea168c790bea39c)] -> id: FirstName]
+2017-10-05 10:28:27 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (47e6522198cf9c7bdea168c790bea39c)] -> id: LastName]
+2017-10-05 10:28:27 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (47e6522198cf9c7bdea168c790bea39c)] -> id: Email]
+2017-10-05 10:28:28 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (47e6522198cf9c7bdea168c790bea39c)] -> id: CreatePassword]
+2017-10-05 10:28:51 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-05 10:30:33 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (ca1d9b093a022b13f002b9e4eb3d4516)] -> id: customer_register_link]
+2017-10-05 10:30:33 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (ca1d9b093a022b13f002b9e4eb3d4516)] -> id: FirstName]
+2017-10-05 10:30:33 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (ca1d9b093a022b13f002b9e4eb3d4516)] -> id: LastName]
+2017-10-05 10:30:34 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (ca1d9b093a022b13f002b9e4eb3d4516)] -> id: Email]
+2017-10-05 10:30:34 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (ca1d9b093a022b13f002b9e4eb3d4516)] -> id: CreatePassword]
+2017-10-05 10:30:57 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-05 10:40:34 INFO  HomePage:90 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (ff133858708d192d45f8ee1bd72f1f46)] -> id: customer_register_link]
+2017-10-05 10:40:34 INFO  HomePage:93 - Entered first name and object is: [[ChromeDriver: chrome on XP (ff133858708d192d45f8ee1bd72f1f46)] -> id: FirstName]
+2017-10-05 10:40:34 INFO  HomePage:96 - Entered last name and object is: [[ChromeDriver: chrome on XP (ff133858708d192d45f8ee1bd72f1f46)] -> id: LastName]
+2017-10-05 10:40:34 INFO  HomePage:99 - Entered email and object is: [[ChromeDriver: chrome on XP (ff133858708d192d45f8ee1bd72f1f46)] -> id: Email]
+2017-10-05 10:40:35 INFO  HomePage:102 - Entered password and object is: [[ChromeDriver: chrome on XP (ff133858708d192d45f8ee1bd72f1f46)] -> id: CreatePassword]
+2017-10-05 10:40:58 INFO  HomePage:105 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:19:17 INFO  HomePage:92 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (90136ff88e13d41d178330dabe75a62d)] -> id: customer_register_link]
+2017-10-06 22:19:17 INFO  HomePage:95 - Entered first name and object is: [[ChromeDriver: chrome on XP (90136ff88e13d41d178330dabe75a62d)] -> id: FirstName]
+2017-10-06 22:19:17 INFO  HomePage:98 - Entered last name and object is: [[ChromeDriver: chrome on XP (90136ff88e13d41d178330dabe75a62d)] -> id: LastName]
+2017-10-06 22:19:17 INFO  HomePage:101 - Entered email and object is: [[ChromeDriver: chrome on XP (90136ff88e13d41d178330dabe75a62d)] -> id: Email]
+2017-10-06 22:19:17 INFO  HomePage:104 - Entered password and object is: [[ChromeDriver: chrome on XP (90136ff88e13d41d178330dabe75a62d)] -> id: CreatePassword]
+2017-10-06 22:19:20 INFO  HomePage:107 - Clicked on Create button and object is: [[ChromeDriver: chrome on XP (90136ff88e13d41d178330dabe75a62d)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-10-06 22:23:00 INFO  HomePage:92 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (4d13bf8cd8ad087d14627cc8550012f4)] -> id: customer_register_link]
+2017-10-06 22:23:00 INFO  HomePage:95 - Entered first name and object is: [[ChromeDriver: chrome on XP (4d13bf8cd8ad087d14627cc8550012f4)] -> id: FirstName]
+2017-10-06 22:23:00 INFO  HomePage:98 - Entered last name and object is: [[ChromeDriver: chrome on XP (4d13bf8cd8ad087d14627cc8550012f4)] -> id: LastName]
+2017-10-06 22:23:00 INFO  HomePage:101 - Entered email and object is: [[ChromeDriver: chrome on XP (4d13bf8cd8ad087d14627cc8550012f4)] -> id: Email]
+2017-10-06 22:23:00 INFO  HomePage:104 - Entered password and object is: [[ChromeDriver: chrome on XP (4d13bf8cd8ad087d14627cc8550012f4)] -> id: CreatePassword]
+2017-10-06 22:23:24 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:25:17 INFO  HomePage:92 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (0974f34de8a9a91d6f9e22dbc75bc832)] -> id: customer_register_link]
+2017-10-06 22:25:17 INFO  HomePage:95 - Entered first name and object is: [[ChromeDriver: chrome on XP (0974f34de8a9a91d6f9e22dbc75bc832)] -> id: FirstName]
+2017-10-06 22:25:17 INFO  HomePage:98 - Entered last name and object is: [[ChromeDriver: chrome on XP (0974f34de8a9a91d6f9e22dbc75bc832)] -> id: LastName]
+2017-10-06 22:25:18 INFO  HomePage:101 - Entered email and object is: [[ChromeDriver: chrome on XP (0974f34de8a9a91d6f9e22dbc75bc832)] -> id: Email]
+2017-10-06 22:25:18 INFO  HomePage:104 - Entered password and object is: [[ChromeDriver: chrome on XP (0974f34de8a9a91d6f9e22dbc75bc832)] -> id: CreatePassword]
+2017-10-06 22:25:40 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:25:41 INFO  TestBase:40 - ================Finished Test================
+2017-10-06 22:27:18 INFO  HomePage:92 - Clicked on SignUp link and object is: [[ChromeDriver: chrome on XP (e3f2862bedfcb294425dc3b632c9fd9e)] -> id: customer_register_link]
+2017-10-06 22:27:18 INFO  HomePage:95 - Entered first name and object is: [[ChromeDriver: chrome on XP (e3f2862bedfcb294425dc3b632c9fd9e)] -> id: FirstName]
+2017-10-06 22:27:18 INFO  HomePage:98 - Entered last name and object is: [[ChromeDriver: chrome on XP (e3f2862bedfcb294425dc3b632c9fd9e)] -> id: LastName]
+2017-10-06 22:27:18 INFO  HomePage:101 - Entered email and object is: [[ChromeDriver: chrome on XP (e3f2862bedfcb294425dc3b632c9fd9e)] -> id: Email]
+2017-10-06 22:27:18 INFO  HomePage:104 - Entered password and object is: [[ChromeDriver: chrome on XP (e3f2862bedfcb294425dc3b632c9fd9e)] -> id: CreatePassword]
+2017-10-06 22:27:41 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:27:42 INFO  TestBase:42 - ================Finished Test================
+2017-10-06 22:34:33 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (e221af85-5efb-4e42-b8bd-26dcc4d4854d)] -> id: customer_register_link]
+2017-10-06 22:34:34 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (e221af85-5efb-4e42-b8bd-26dcc4d4854d)] -> id: FirstName]
+2017-10-06 22:34:35 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (e221af85-5efb-4e42-b8bd-26dcc4d4854d)] -> id: LastName]
+2017-10-06 22:34:35 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (e221af85-5efb-4e42-b8bd-26dcc4d4854d)] -> id: Email]
+2017-10-06 22:34:35 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (e221af85-5efb-4e42-b8bd-26dcc4d4854d)] -> id: CreatePassword]
+2017-10-06 22:34:58 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:34:59 INFO  TestBase:42 - ================Finished Test================
+2017-10-06 22:36:27 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (fea3b52d-b9ea-45af-91f7-cf7d53e5f68a)] -> id: customer_register_link]
+2017-10-06 22:36:27 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (fea3b52d-b9ea-45af-91f7-cf7d53e5f68a)] -> id: FirstName]
+2017-10-06 22:36:28 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (fea3b52d-b9ea-45af-91f7-cf7d53e5f68a)] -> id: LastName]
+2017-10-06 22:36:28 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (fea3b52d-b9ea-45af-91f7-cf7d53e5f68a)] -> id: Email]
+2017-10-06 22:36:28 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (fea3b52d-b9ea-45af-91f7-cf7d53e5f68a)] -> id: CreatePassword]
+2017-10-06 22:36:51 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:36:52 INFO  TestBase:43 - ================Finished Test================
+2017-10-06 22:38:59 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (29723063-f16e-4c66-9b8b-ad56568674ab)] -> id: customer_register_link]
+2017-10-06 22:38:59 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (29723063-f16e-4c66-9b8b-ad56568674ab)] -> id: FirstName]
+2017-10-06 22:38:59 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (29723063-f16e-4c66-9b8b-ad56568674ab)] -> id: LastName]
+2017-10-06 22:38:59 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (29723063-f16e-4c66-9b8b-ad56568674ab)] -> id: Email]
+2017-10-06 22:38:59 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (29723063-f16e-4c66-9b8b-ad56568674ab)] -> id: CreatePassword]
+2017-10-06 22:39:23 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:39:26 INFO  TestBase:43 - ================Finished Test================
+2017-10-06 22:40:55 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (dcc1a1bb-a2e0-4a99-8aa2-09bc1f49c76b)] -> id: customer_register_link]
+2017-10-06 22:40:55 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (dcc1a1bb-a2e0-4a99-8aa2-09bc1f49c76b)] -> id: FirstName]
+2017-10-06 22:40:55 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (dcc1a1bb-a2e0-4a99-8aa2-09bc1f49c76b)] -> id: LastName]
+2017-10-06 22:40:55 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (dcc1a1bb-a2e0-4a99-8aa2-09bc1f49c76b)] -> id: Email]
+2017-10-06 22:40:55 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (dcc1a1bb-a2e0-4a99-8aa2-09bc1f49c76b)] -> id: CreatePassword]
+2017-10-06 22:41:19 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:41:19 INFO  TestBase:42 - ================Finished Test================
+2017-10-06 22:45:05 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (1417c938-5a5b-4f69-84ff-c388a2d1fb40)] -> id: customer_register_link]
+2017-10-06 22:45:05 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (1417c938-5a5b-4f69-84ff-c388a2d1fb40)] -> id: FirstName]
+2017-10-06 22:45:05 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (1417c938-5a5b-4f69-84ff-c388a2d1fb40)] -> id: LastName]
+2017-10-06 22:45:05 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (1417c938-5a5b-4f69-84ff-c388a2d1fb40)] -> id: Email]
+2017-10-06 22:45:05 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (1417c938-5a5b-4f69-84ff-c388a2d1fb40)] -> id: CreatePassword]
+2017-10-06 22:45:08 INFO  HomePage:107 - Clicked on Create button and object is: [[FirefoxDriver: firefox on ANY (1417c938-5a5b-4f69-84ff-c388a2d1fb40)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-10-06 22:45:08 INFO  TestBase:45 - ================Finished Test================
+2017-10-06 22:56:08 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (02d55f5b-9610-45aa-b954-8da8898743fb)] -> id: customer_register_link]
+2017-10-06 22:56:09 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (02d55f5b-9610-45aa-b954-8da8898743fb)] -> id: FirstName]
+2017-10-06 22:56:09 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (02d55f5b-9610-45aa-b954-8da8898743fb)] -> id: LastName]
+2017-10-06 22:56:09 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (02d55f5b-9610-45aa-b954-8da8898743fb)] -> id: Email]
+2017-10-06 22:56:09 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (02d55f5b-9610-45aa-b954-8da8898743fb)] -> id: CreatePassword]
+2017-10-06 22:56:32 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-06 22:56:32 INFO  TestBase:45 - ================Finished Test================
+2017-10-07 10:37:13 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (64a7d395-8125-4724-ab77-ba7c01fc1b7c)] -> id: customer_register_link]
+2017-10-07 10:37:13 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (64a7d395-8125-4724-ab77-ba7c01fc1b7c)] -> id: FirstName]
+2017-10-07 10:37:15 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (64a7d395-8125-4724-ab77-ba7c01fc1b7c)] -> id: LastName]
+2017-10-07 10:37:15 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (64a7d395-8125-4724-ab77-ba7c01fc1b7c)] -> id: Email]
+2017-10-07 10:37:15 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (64a7d395-8125-4724-ab77-ba7c01fc1b7c)] -> id: CreatePassword]
+2017-10-07 10:37:17 INFO  HomePage:107 - Clicked on Create button and object is: [[FirefoxDriver: firefox on ANY (64a7d395-8125-4724-ab77-ba7c01fc1b7c)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-10-07 10:37:17 INFO  TestBase:47 - ================Finished Test================
+2017-10-07 10:41:13 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (e5a14cbe-a94f-402c-ba31-749186ea5c7f)] -> id: customer_register_link]
+2017-10-07 10:41:13 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (e5a14cbe-a94f-402c-ba31-749186ea5c7f)] -> id: FirstName]
+2017-10-07 10:41:13 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (e5a14cbe-a94f-402c-ba31-749186ea5c7f)] -> id: LastName]
+2017-10-07 10:41:13 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (e5a14cbe-a94f-402c-ba31-749186ea5c7f)] -> id: Email]
+2017-10-07 10:41:13 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (e5a14cbe-a94f-402c-ba31-749186ea5c7f)] -> id: CreatePassword]
+2017-10-07 10:41:36 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-07 10:41:36 INFO  TestBase:47 - ================Finished Test================
+2017-10-07 14:20:32 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (5bc3485e-0240-4262-b7fa-791d49f1aa06)] -> id: customer_register_link]
+2017-10-07 14:20:32 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (5bc3485e-0240-4262-b7fa-791d49f1aa06)] -> id: FirstName]
+2017-10-07 14:20:33 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (5bc3485e-0240-4262-b7fa-791d49f1aa06)] -> id: LastName]
+2017-10-07 14:20:34 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (5bc3485e-0240-4262-b7fa-791d49f1aa06)] -> id: Email]
+2017-10-07 14:20:34 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (5bc3485e-0240-4262-b7fa-791d49f1aa06)] -> id: CreatePassword]
+2017-10-07 14:20:36 INFO  HomePage:107 - Clicked on Create button and object is: [[FirefoxDriver: firefox on ANY (5bc3485e-0240-4262-b7fa-791d49f1aa06)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-10-07 14:20:36 INFO  TestBase:47 - ================Finished Test================
+2017-10-07 14:24:12 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: customer_register_link]
+2017-10-07 14:24:12 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: FirstName]
+2017-10-07 14:24:12 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: LastName]
+2017-10-07 14:24:12 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: Email]
+2017-10-07 14:24:12 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: CreatePassword]
+2017-10-07 14:24:37 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-07 14:24:37 INFO  TestBase:49 - ================Finished Test================
+2017-10-07 14:24:39 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: customer_register_link]
+2017-10-07 14:24:39 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: FirstName]
+2017-10-07 14:24:39 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: LastName]
+2017-10-07 14:24:39 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: Email]
+2017-10-07 14:24:39 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: CreatePassword]
+2017-10-07 14:25:00 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-07 14:25:01 INFO  TestBase:49 - ================Finished Test================
+2017-10-07 14:25:02 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: customer_register_link]
+2017-10-07 14:25:02 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: FirstName]
+2017-10-07 14:25:02 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: LastName]
+2017-10-07 14:25:02 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: Email]
+2017-10-07 14:25:03 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: CreatePassword]
+2017-10-07 14:25:24 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-07 14:25:24 INFO  TestBase:49 - ================Finished Test================
+2017-10-07 14:25:26 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: customer_register_link]
+2017-10-07 14:25:26 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: FirstName]
+2017-10-07 14:25:26 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: LastName]
+2017-10-07 14:25:26 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: Email]
+2017-10-07 14:25:26 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> id: CreatePassword]
+2017-10-07 14:25:27 INFO  HomePage:107 - Clicked on Create button and object is: [[FirefoxDriver: firefox on ANY (48ed8ee0-3449-419d-8b36-5e2307000469)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-10-07 14:25:27 INFO  TestBase:49 - ================Finished Test================
+2017-10-07 14:27:20 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2017-10-07 14:34:40 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: customer_register_link]
+2017-10-07 14:34:41 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: FirstName]
+2017-10-07 14:34:42 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: LastName]
+2017-10-07 14:34:42 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: Email]
+2017-10-07 14:34:42 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: CreatePassword]
+2017-10-07 14:35:08 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-07 14:35:09 INFO  TestBase:49 - ================Finished Test================
+2017-10-07 14:35:11 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: customer_register_link]
+2017-10-07 14:35:11 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: FirstName]
+2017-10-07 14:35:11 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: LastName]
+2017-10-07 14:35:11 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: Email]
+2017-10-07 14:35:11 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: CreatePassword]
+2017-10-07 14:35:33 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-07 14:35:33 INFO  TestBase:49 - ================Finished Test================
+2017-10-07 14:35:34 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: customer_register_link]
+2017-10-07 14:35:35 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: FirstName]
+2017-10-07 14:35:35 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: LastName]
+2017-10-07 14:35:35 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: Email]
+2017-10-07 14:35:35 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: CreatePassword]
+2017-10-07 14:35:56 INFO  HomePage:107 - Clicked on Create button and object is: Proxy element for: DefaultElementLocator 'By.xpath: .//*[@id='create_customer']/p/input'
+2017-10-07 14:35:56 INFO  TestBase:49 - ================Finished Test================
+2017-10-07 14:35:58 INFO  HomePage:92 - Clicked on SignUp link and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: customer_register_link]
+2017-10-07 14:35:58 INFO  HomePage:95 - Entered first name and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: FirstName]
+2017-10-07 14:35:58 INFO  HomePage:98 - Entered last name and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: LastName]
+2017-10-07 14:35:58 INFO  HomePage:101 - Entered email and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: Email]
+2017-10-07 14:35:58 INFO  HomePage:104 - Entered password and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> id: CreatePassword]
+2017-10-07 14:35:59 INFO  HomePage:107 - Clicked on Create button and object is: [[FirefoxDriver: firefox on ANY (dadc19ed-d9be-4108-ab8e-fb25a27b39d5)] -> xpath: .//*[@id='create_customer']/p/input]
+2017-10-07 14:35:59 INFO  TestBase:49 - ================Finished Test================
+2017-11-02 21:43:13 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2018-01-12 13:18:07 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2018-01-12 13:23:50 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2018-03-11 21:02:40 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2018-03-11 21:06:39 INFO  TC001_VerifyWithInvalidCredentials:25 - ================Starting Test================
+2018-03-15 00:30:40 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
+2018-03-15 00:33:04 INFO  TC001_VerifyWithInvalidCredentials:26 - ================Starting Test================
