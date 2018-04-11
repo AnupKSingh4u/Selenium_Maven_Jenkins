@@ -51,6 +51,8 @@ public class HomePage extends TestBase {
 	}
 	
 	public String getInvalidLoginMsg() {
+		
+		//method for grtting error message.
 		log.info("Authentication message is: "+AuthenticationMsg.getText());
 		return AuthenticationMsg.getText();
 	}
