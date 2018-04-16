@@ -4,9 +4,12 @@ import java.io.File;
 import java.io.IOException;
 import java.text.SimpleDateFormat;
 import java.util.Calendar;
+import java.util.NoSuchElementException;
 import java.util.Scanner;
 import java.util.Set;
 import java.util.concurrent.TimeUnit;
+import java.util.function.Function;
+
 import org.apache.commons.io.FileUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
@@ -19,6 +22,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.FluentWait;
+import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Reporter;
 
@@ -84,6 +89,7 @@ public class TestBase {
 		
 		Calendar calendar= Calendar.getInstance();
 		SimpleDateFormat formater = new SimpleDateFormat("dd_MM_yyyy_hh_mm_ss");
+		@SuppressWarnings("unused")
 		String timestamp = formater.format(calendar.getTime());
 				
 		TakesScreenshot ScrShot = (TakesScreenshot)driver;
@@ -135,10 +141,10 @@ public class TestBase {
 	
 
 	
-	public void	waitForElement(WebElement element, int TimeouinSeconds) {
+	public void	waitForElement(WebElement element, int TimeInSeconds) {
 		
 	//	WebElement we = driver.findElement(By.linkText("homepage"));
-			WebDriverWait wait = new WebDriverWait(driver, TimeouinSeconds);
+			WebDriverWait wait = new WebDriverWait(driver, TimeInSeconds);
 			wait.until(ExpectedConditions.visibilityOf(element));
 			Set<String> windows = driver.getWindowHandles();
 			}
@@ -152,6 +158,35 @@ public class TestBase {
 		
 		
 	}
+	
+	public void fluentWait(TimeUnit SECONDS) {
+		
+		  // Waiting 30 seconds for an element to be present on the page, checking
+		   // for its presence once every 5 seconds.
+		   Wait<WebDriver> wait = new FluentWait<WebDriver>(driver)
+		       .withTimeout(30, TimeUnit.SECONDS)
+		       .pollingEvery(5, TimeUnit.SECONDS)
+		       .ignoring(NoSuchElementException.class);
+
+		   WebElement foo = wait.until(new Function<WebDriver, WebElement>() {
+		     public WebElement apply(WebDriver driver) {
+		       return driver.findElement(By.id("foo"));
+		     }
+		   });
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 

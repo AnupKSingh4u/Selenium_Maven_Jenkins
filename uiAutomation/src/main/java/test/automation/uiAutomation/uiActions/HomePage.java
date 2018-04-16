@@ -31,10 +31,11 @@ public class HomePage extends TestBase {
 	@FindBy(xpath="//*[@id='center_column']/div[1]/ol/li")
 	WebElement AuthenticationMsg;
 	
-	public HomePage(WebDriver driver) {
+	public HomePage(WebDriver driver){
 		HomePage.driver= driver;
 		PageFactory.initElements(driver, this);
 	}
+	//message for github
 	public void Login(String username, String password) {
 		
 		SignInLnk.click();
@@ -48,6 +49,8 @@ public class HomePage extends TestBase {
 		
 		SignInBtn.click();
 		log.info("Clicked on SignIn button and object is: "+SignInBtn.toString());	
+		
+	//dssddfsdffafsdsgssdgsdsdfsdfsfsfsdfs
 	}
 	
 	public String getInvalidLoginMsg() {

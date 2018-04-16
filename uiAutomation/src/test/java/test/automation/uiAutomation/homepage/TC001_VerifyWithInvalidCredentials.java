@@ -14,7 +14,6 @@ public class TC001_VerifyWithInvalidCredentials extends TestBase {
 	public static final Logger log= Logger.getLogger(TC001_VerifyWithInvalidCredentials.class.getName());
 	
 	
-	
 	@Test(priority=1)
 	public void setUp() {
 		init("chrome","http://automationpractice.com/index.php");
