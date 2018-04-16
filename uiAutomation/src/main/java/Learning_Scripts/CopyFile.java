@@ -26,7 +26,7 @@ public class CopyFile {
 		
 		
 		
-		 File srcDir = new File ("C:\\Users\\ACER\\Downloads\\Photo");
+		  File srcDir = new File("C:\\Users\\ACER\\Desktop\\RESUMES+");
 		 File destDir = new File(srcDir+ "\\BackUpFile");
 		 
 		 if (srcDir.exists()) {
