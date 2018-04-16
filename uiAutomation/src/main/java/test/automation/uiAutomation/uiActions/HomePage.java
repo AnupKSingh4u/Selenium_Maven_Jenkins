@@ -50,7 +50,7 @@ public class HomePage extends TestBase {
 		SignInBtn.click();
 		log.info("Clicked on SignIn button and object is: "+SignInBtn.toString());	
 		
-	//dssddfsdffafsdsgssdgsdsdfsdfsfsfsdfs
+	//dssddfsdffafsdsgssdgsdsdfsdfsfsfsdfssfsfsfsdfsfsdfsfsdf
 	}
 	
 	public String getInvalidLoginMsg() {
